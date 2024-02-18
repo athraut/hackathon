@@ -32,7 +32,7 @@ This Pharmaceutical Inventory Management System is designed to efficiently manag
 2. **Clone Repository:**
    Clone the repository to your local machine or server directory:
    
-   [git clone https://github.com/your/repository.git]
+   [git clone: https://github.com/your/repository.git]
 
 
 4. **Database Setup:**
