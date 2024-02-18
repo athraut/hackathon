@@ -76,8 +76,8 @@ This Pharmaceutical Inventory Management System is designed to efficiently manag
 ## Contributing:
 Contributions to the project are welcome. You can contribute by reporting bugs, suggesting features, or submitting pull requests to improve the codebase.
 
-## Support:
-For any inquiries or assistance, please contact [your email address].
+## Support and Contact:
+For any inquiries or assistance, please contact [shivrajkadam200@gmail.com].
 
 ## Credits:
 Acknowledgment to any third-party libraries, frameworks, or resources used in the development of this system.
