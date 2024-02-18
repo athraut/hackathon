@@ -17,7 +17,7 @@ This Pharmaceutical Inventory Management System is designed to efficiently manag
    - Record purchase orders, including supplier details, product information, quantities, and costs.
    - Monitor purchase history and track payments to suppliers.
 6. **Reports and Analytics:**
-   - Generate reports on inventory levels, sales, purchases, and financial performance.
+   - Generate reports on inventory levels, sales, purchases, expired stock and financial performance.
    - Analyze data to identify trends, optimize inventory levels, and make informed business decisions.
 7. **Settings:** Customize system settings such as currency, tax rates, and user permissions.
 8. **Responsive Design:** Responsive layout optimized for various devices to ensure accessibility from desktops, tablets, and smartphones.
