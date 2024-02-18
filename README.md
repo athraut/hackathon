@@ -37,7 +37,7 @@ This Pharmaceutical Inventory Management System is designed to efficiently manag
 
 4. **Database Setup:**
 - Create a new MySQL database for the system.
-- Import the database schema provided in the `database.sql` file to set up the necessary tables.
+- Import the database schema provided in the `pharmacy.db` file to set up the necessary tables.
 
 4. **Configuration:**
 - Open the `config.php` file and update the database connection settings with your MySQL host, username, password, and database name.
