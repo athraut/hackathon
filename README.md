@@ -1,4 +1,4 @@
-# Pharmaceutical Inventory Management System
+# ERP system for Pharmaceutical Inventory
 
 ## Overview:
 This Pharmaceutical Inventory Management System is designed to efficiently manage inventory processes specifically tailored for pharmaceutical companies. It's built using PHP, MySQL, and Bootstrap 5 to ensure a user-friendly interface and seamless functionality. This README file provides an overview of the system's features, installation instructions, and usage guidelines.
