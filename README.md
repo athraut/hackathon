@@ -34,7 +34,6 @@ This Pharmaceutical Inventory Management System is designed to efficiently manag
    
    [git clone: https://github.com/your/repository.git]
 
-
 4. **Database Setup:**
 - Create a new MySQL database for the system.
 - Import the database schema provided in the `pharmacy.db` file to set up the necessary tables.
@@ -77,26 +76,17 @@ This Pharmaceutical Inventory Management System is designed to efficiently manag
 ## Contributing:
 Contributions to the project are welcome. You can contribute by reporting bugs, suggesting features, or submitting pull requests to improve the codebase.
 
-## License:
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
 ## Support:
 For any inquiries or assistance, please contact [your email address].
 
 ## Credits:
 Acknowledgment to any third-party libraries, frameworks, or resources used in the development of this system.
 
-## Disclaimer:
-This system is provided as-is without any warranty. Use at your own risk.
-
 ## Authors:
-[List of contributors or authors involved in the project]
-
-## Version History:
-[List of version updates and changes]
+[Team Ignite Coder]
 
 ## References:
-[List any external sources or references used in the development]
+[Report: https://drive.google.com/file/d/1Nf27Dug89aQfLbUGVaS7xGQiucun2KZM/view?usp=sharing]
 
 ## Conclusion:
 Thank you for using our Pharmaceutical Inventory Management System. We hope it helps streamline your inventory processes and enhances efficiency in your pharmaceutical operations. If you have any feedback or suggestions for improvement, please let us know.
